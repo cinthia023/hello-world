@@ -1,2 +1,4 @@
 # hello-world
-Ejercicio git
+Ejercici git
+prinr  "Mi nombre es Cinthia"
+
